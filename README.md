@@ -1,3 +1,3 @@
 # Canary
 
-Logic
+Logic!
