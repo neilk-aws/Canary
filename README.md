@@ -1,3 +1,3 @@
 # Canary
 
-A playground for minor testing.
+A playground for general SRCS testing.
