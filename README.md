@@ -1,7 +1,3 @@
 # Canary
 
-Logic!?
-
-Here's a pen test start date verification commit!
-
-Does this work?
+I wouldn't really call this project a canary but rather a playground for minor testing.
